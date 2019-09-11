@@ -2,7 +2,8 @@
   "meta": {
     "username": "mrk-vi",
     "repositoryName": "mrk-vi.github.io",
-    "branch": "master"
+    "branch": "master",
+    "cname": ""
   },
   "theme": {
     "name": "casper"
@@ -26,5 +27,31 @@
     "beforeCreate": [
       null
     ]
-  }
+  },
+  "site": {
+    "title": "",
+    "description": "",
+    "logo": "",
+    "cover": "",
+    "delay": "",
+    "postsPerPage": "",
+    "blogPath": "",
+    "googleAnalytics": "",
+    "disqus": ""
+  },
+  "socialnetwork": {
+    "email": "",
+    "github": "https://github.com/mrk-vi",
+    "twitter": "https://twitter.com/mrk_vi",
+    "facebook": "",
+    "googleplus": "",
+    "instagram": "https://www.instagram.com/mrk_vi/",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "",
+    "stackoverflow": "",
+    "paypalme": "",
+    "opencollective": ""
+  },
+  "navigation": []
 }
