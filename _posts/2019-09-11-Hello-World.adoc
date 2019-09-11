@@ -1,0 +1,11 @@
+= Hello World!
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+:published_at: 2019-09-11
+:hp-tags: HubPress, Blog, Open_Source, HelloWorld, FirstPost
+
+// :hp-alt-title: My English Title
+This is my first post on this blog, I don't know exactly what I'll write on this blog.
+For now I just want to keep this space ready and yes.. I have to practice with asciidoc (and also with my English).
+
+So, bye-bye for now!
